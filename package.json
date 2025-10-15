@@ -1,0 +1,23 @@
+{
+  "name": "mathstepweb",
+  "version": "1.0.0",
+  "description": "MathStep mobile app terms and privacy policy website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 3000",
+    "build": "echo 'No build process needed for static site'",
+    "deploy": "echo 'Deploy to GitHub Pages or your preferred hosting service'"
+  },
+  "keywords": [
+    "mathstep",
+    "mobile-app",
+    "terms",
+    "privacy",
+    "policy"
+  ],
+  "author": "eigamaker",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
