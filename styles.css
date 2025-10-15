@@ -29,13 +29,14 @@ body {
 }
 
 .logo {
-    font-size: 3rem;
-    font-weight: 700;
-    background: linear-gradient(135deg, #2f3b69, #4a5d8a);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    height: 60px;
+    width: auto;
     margin-bottom: 0.5rem;
+}
+
+.logo img {
+    height: 100%;
+    width: auto;
 }
 
 .tagline {
