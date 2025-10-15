@@ -9,7 +9,7 @@ body {
     font-family: 'Noto Sans JP', sans-serif;
     line-height: 1.6;
     color: #333;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #2f3b69 0%, #1a2332 100%);
     min-height: 100vh;
 }
 
@@ -31,7 +31,7 @@ body {
 .logo {
     font-size: 3rem;
     font-weight: 700;
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #2f3b69, #4a5d8a);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -121,23 +121,23 @@ body {
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #2f3b69, #4a5d8a);
     color: white;
 }
 
 .btn-primary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+    box-shadow: 0 10px 20px rgba(47, 59, 105, 0.3);
 }
 
 .btn-secondary {
-    background: linear-gradient(135deg, #f093fb, #f5576c);
+    background: linear-gradient(135deg, #4a5d8a, #6b7ba8);
     color: white;
 }
 
 .btn-secondary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 10px 20px rgba(240, 147, 251, 0.3);
+    box-shadow: 0 10px 20px rgba(74, 93, 138, 0.3);
 }
 
 /* Contact Section */
@@ -164,7 +164,7 @@ body {
 
 .contact-info {
     font-weight: 500;
-    color: #667eea;
+    color: #2f3b69;
     font-size: 1.2rem;
 }
 
@@ -198,7 +198,7 @@ body {
     font-size: 1.8rem;
     margin: 2rem 0 1rem 0;
     color: #333;
-    border-bottom: 2px solid #667eea;
+    border-bottom: 2px solid #2f3b69;
     padding-bottom: 0.5rem;
 }
 
@@ -226,14 +226,14 @@ body {
 .back-link {
     display: inline-block;
     margin-bottom: 2rem;
-    color: #667eea;
+    color: #2f3b69;
     text-decoration: none;
     font-weight: 500;
     transition: color 0.3s ease;
 }
 
 .back-link:hover {
-    color: #764ba2;
+    color: #4a5d8a;
 }
 
 /* Language Selector */
@@ -325,7 +325,7 @@ body {
     font-size: 1.1rem;
     margin: 1.5rem 0 0.5rem 0;
     padding-left: 1rem;
-    border-left: 3px solid #667eea;
+    border-left: 3px solid #2f3b69;
 }
 
 .faq-section p {
@@ -335,11 +335,11 @@ body {
 }
 
 .back-to-app {
-    background: rgba(102, 126, 234, 0.1);
+    background: rgba(47, 59, 105, 0.1);
     border-radius: 15px;
     padding: 1.5rem;
     margin: 2rem 0;
-    border-left: 4px solid #667eea;
+    border-left: 4px solid #2f3b69;
 }
 
 .back-to-app h3 {
