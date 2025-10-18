@@ -3,4 +3,4 @@
 # For more information, visit: https://support.google.com/admanager/answer/7532444
 
 # AdMob Publisher ID for MathStep iOS App
-ca-app-pub-1998641949557439, DIRECT, f08c47fec0942fa0
+google.com, pub-1998641949557439, DIRECT, f08c47fec0942fa0
